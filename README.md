@@ -2,7 +2,7 @@
 <h1> <strong>Oi, meu nome é Daniel Zampelin!</strong>
 <img align = "left" alt= "Title-icon" height = "40" width = "40" src="https://img.icons8.com/fluency/48/null/minecraft-golden-apple.png"/> </h1>
 
-<img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/656990779201421313/1083451830245281912/gif_atry.gif">
+<img align="right" alt="Atry-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/798631748421943347/1125935695228326028/dzampelinGIF.gif">
 
 <p> 
 <img align = "left" alt= "Title-icon" height = "30" width = "30" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789366029619290/1676667607663.png"/> <i>Especialista em Análise de Dados.</i> 
